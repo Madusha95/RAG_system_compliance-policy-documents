@@ -2,8 +2,6 @@
 
 A Retrieval-Augmented Generation (RAG) backend service for querying AML/KYC compliance policy documents with grounded, auditable responses.
 
-This project was developed as part of the AI Engineer Take-Home Assignment for Compliance Document Intelligence.
-
 ---
 
 # Features
