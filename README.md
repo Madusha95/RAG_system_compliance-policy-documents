@@ -26,7 +26,7 @@ This project was developed as part of the AI Engineer Take-Home Assignment for C
 | Component | Technology |
 |---|---|
 | Language | Python |
-| LLM | Azure OpenAI |
+| LLM | Azure OpenAI `gpt-5.4`|
 | Embeddings | Azure OpenAI `text-embedding-3-small` |
 | Vector Database | ChromaDB |
 | Framework | LangChain |
