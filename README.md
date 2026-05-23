@@ -250,7 +250,7 @@ Validation failures are handled explicitly and converted into structured error r
 
 I used `RecursiveCharacterTextSplitter` with:
 
-- Chunk Size: `1200`
+- Chunk Size: `800`
 - Chunk Overlap: `250`
 
 This strategy was selected to preserve policy context across section boundaries while minimizing retrieval fragmentation.
