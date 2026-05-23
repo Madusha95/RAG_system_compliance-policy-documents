@@ -67,7 +67,7 @@ project/
 ## 1. Clone Repository
 
 ```bash
-git clone <your_repository_url>
+git clone https://github.com/Madusha95/RAG_system_compliance-policy-documents.git
 cd RAG_system_compliance-policy-documents
 ```
 
