@@ -68,7 +68,7 @@ project/
 
 ```bash
 git clone <your_repository_url>
-cd <repository_name>
+cd RAG_system_compliance-policy-documents
 ```
 
 ---
